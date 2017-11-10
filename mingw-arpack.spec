@@ -10,6 +10,7 @@ URL:            https://github.com/opencollab/arpack-ng
 Source0:        https://github.com/opencollab/arpack-ng/archive/%{version}.tar.gz
 
 BuildRequires:  autoconf
+BuildRequires:  automake
 
 BuildRequires:  mingw32-filesystem
 BuildRequires:  mingw32-gcc
