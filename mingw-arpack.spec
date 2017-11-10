@@ -11,6 +11,7 @@ Source0:        https://github.com/opencollab/arpack-ng/archive/%{version}.tar.g
 
 BuildRequires:  autoconf
 BuildRequires:  automake
+BuildRequires:  libtool
 
 BuildRequires:  mingw32-filesystem
 BuildRequires:  mingw32-gcc
